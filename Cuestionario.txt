@@ -1,0 +1,8 @@
+?Que entiende como "commit"?
+guarda una copia de un archivo en el estado que se encuentra al momento de hacer el commit.
+
+?Que entiende como "merge"?
+une los datos de 2 diferentes ramas si se usan.
+
+?Cual es la diferencia entre "Pull" y "Push"?
+push sube los datos al repositorio en git mientras que pull descarga los datos que hay en el repositorio git.
