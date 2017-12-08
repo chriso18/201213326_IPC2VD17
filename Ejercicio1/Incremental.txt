@@ -1,0 +1,3 @@
+Los pasosclaves en el proceso son comenzar con una implementacion simple de los requerimientos delsistema,
+e iterativamente mejorar la secuencia evolutiva de versiones hasta que el sistemacompleto este implementado.
+ En cada iteracion, se realizan cambios en el diseno y se agregannuevas funcionalidades y capacidades al sistema.

@@ -1,0 +1,4 @@
+dice que el desarrollo de software puede ser a traves de una secuencia simple de fases.
+Cada fase tiene un conjunto de metas bien definidas, y las actividades dentro de una
+fase con-tribuyen a la satisfaccion de metas de la fase o quizas a una subsecuencia 
+de metas de la fase.

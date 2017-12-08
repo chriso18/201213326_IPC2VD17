@@ -1,0 +1,4 @@
+Un modelo de ciclo de vida define el estado de las fases a traves de las cuales se mueve un 
+proyecto de desarrollo de software, Es una vista de las actividades que ocurren durante el 
+desarrollo de software, intenta determinar el orden de las etapas involucradas y los 
+criterios detransicion asociadas entre estas etapas.
